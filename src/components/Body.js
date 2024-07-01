@@ -9,7 +9,6 @@ const Body =() => {    // not gonan use mock data reslist
    let [searchRes, setSearchRes] = useState("");
    
    
-   
    // useEffect() - Normal Function , useEffect Runs After the first render for eg to make an api call
 
    useEffect(() => {

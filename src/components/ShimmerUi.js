@@ -11,13 +11,6 @@ const ShimmerUi = () => {
          <div className="shimmer-box"></div>
          <div className="shimmer-box"></div>
          <div className="shimmer-box"></div>
-         <div className="shimmer-box"></div>
-         <div className="shimmer-box"></div>
-         <div className="shimmer-box"></div>
-         <div className="shimmer-box"></div>
-         <div className="shimmer-box"></div>
-         <div className="shimmer-box"></div>
-         <div className="shimmer-box"></div>
         </div>
     )
 }
